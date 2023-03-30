@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRESTfulAPI", "SimpleRESTfulAPI\SimpleRESTfulAPI.csproj", "{4839441B-DC16-4688-89DD-B9BF1B5C4467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4839441B-DC16-4688-89DD-B9BF1B5C4467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4839441B-DC16-4688-89DD-B9BF1B5C4467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4839441B-DC16-4688-89DD-B9BF1B5C4467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4839441B-DC16-4688-89DD-B9BF1B5C4467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F9AF19-5303-4C6A-A1DB-A2A81F0816A7}
+	EndGlobalSection
+EndGlobal
